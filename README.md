@@ -26,6 +26,15 @@ Console.WriteLine(l["BatchIDE"] + " - " + l["bat"]);
 //Groophy.Inc - kvc
 ```
 
+# Note
+/* = start comment
+
+*/ = end comment
+
+```bat=kvc/*owner of batch-man*/```
+
+Lang["bat"] = kvc
+
 # Sample
 
 ```c#
