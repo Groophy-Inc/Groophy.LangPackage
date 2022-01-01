@@ -33,6 +33,7 @@ Console.WriteLine(l["BatchIDE"] + " - " + l["bat"]);
 
 ```bat=kvc/*owner of batch-man*/```
 
+~Groophy Lifefor
 Lang["bat"] = kvc
 
 # Sample
